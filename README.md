@@ -1,9 +1,9 @@
 ### Heyo! I'm **Harine**👋
 ![Web 1280 – 1](https://user-images.githubusercontent.com/99670243/168797832-c8c8e352-9cff-451e-acb0-69789f6dd72d.jpg)
 
--
+_______________________________________________________________________________________________________________________________________________________________________
 ### 👩‍💻: About me :
--
+---
 
 - 🌱 I’m currently working on C language and Python
 - 💻 I'm hoping to learn AI, ML and do a Mba course online
@@ -11,11 +11,9 @@
 - Tech for good
 - [ ] Become an Entrepreneur 
 
-
-
--
+---
 ### 🛠️ Languages and tools :
--
+---
 
 <div>
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/html-5.png" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;&ensp;
