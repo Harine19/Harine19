@@ -1,7 +1,6 @@
 ### Heyo! I'm Harine👋
-![image](https://user-images.githubusercontent.com/99670243/168778199-86af5905-0a0a-4e60-8cbb-629d904a7e8e.png)
+![Web 1280 – 1](https://user-images.githubusercontent.com/99670243/168778951-787c046b-d5ac-4b61-ae2b-e872fab1173e.jpg)
 
-<!--
 **Harine19/Harine19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
