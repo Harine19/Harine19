@@ -1,5 +1,5 @@
 ### Heyo! I'm Harine👋
-![Web 1280 – 1](https://user-images.githubusercontent.com/99670243/168778951-787c046b-d5ac-4b61-ae2b-e872fab1173e.jpg)
+![image](https://user-images.githubusercontent.com/99670243/168791618-fc8b3056-acf8-40ce-a854-469c60c9be55.png)
 
 **Harine19/Harine19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
