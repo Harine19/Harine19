@@ -8,8 +8,9 @@
 - 🌱 I’m currently working on C language and Python
 - 💻 I'm hoping to learn AI, ML and do a Mba course online
 - 😄 Pronouns: she/her
-- [x] Become an Entrepreneur 
-- [ ] Tech for good
+- Tech for good
+- [ ] Become an Entrepreneur 
+
 
 
 ---
