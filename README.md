@@ -23,6 +23,18 @@
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/autocad.png" title="Cad" alt="Cad" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
  
+---
+### 🔎 Contact :
+---
   
+<div>
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/gmail.png" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/outlook.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/instagram.png" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
+  
+---
+### 🔥 My stats :
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+  
