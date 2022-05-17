@@ -12,7 +12,7 @@
 - [ ] Become an Entrepreneur 
 
 ----
-### 🛠️ Languages and tools :
+### 🛠️: Languages and tools :
 ----
 
 <div>
@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&ensp;
  
 ----
-### 🔎 Contact :
+### 🔎: Contact :
 ----
   
 <div>
@@ -35,7 +35,7 @@
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/instagram.png" title="Insta" alt="Insta" width="40" height="40"/>&nbsp;&ensp;
   
 ---
-### 🔥 My stats :
+### 🔥: My stats :
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harine19&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
