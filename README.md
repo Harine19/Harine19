@@ -31,9 +31,9 @@
 -----
   
 <div>
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/gmail.png" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/outlook.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/instagram.png" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/gmail.png" title="Gmail" alt="Gmail" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/outlook.png" title="Outlook" alt="Outlook" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/instagram.png" title="Insta" alt="Insta" width="40" height="40"/>&nbsp;&ensp;
   
 -----
 ### 🔥 My stats :
