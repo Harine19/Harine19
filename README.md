@@ -5,8 +5,9 @@
 ### 👩‍💻 About me :
 ---
 
-- 🌱 I’m currently working on C language and Python
-- 💻 I'm hoping to learn AI, ML and do a Mba course online
+- 🌱 I’m experimenting on making web applications using Flutter and Django
+- 🧪 I'm working on a project to deploy a machine learning model onto a web application for facial recognition - Software freedom day
+- 💻 I'm hoping to do an Mba course online
 - 😄 Pronouns: she/her
 - Tech for good
 - [ ] Become an Entrepreneur 
