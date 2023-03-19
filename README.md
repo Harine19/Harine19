@@ -7,7 +7,7 @@
 
 - 🌱 I'm trying to figure out this whole hackathons thing
 - 🧪 I'm trying to find my interest 
-- 💻 I'm doing an MBA course online, entrepreneurship is the dream
+- 💻 I'm doing an MBA course online
 - 😄 Pronouns: she/her
 - Tech for good
 - [ ] Become an Entrepreneur 
