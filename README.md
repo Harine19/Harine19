@@ -5,12 +5,12 @@
 ### 👩‍💻 About me :
 ---
 
-- 🌱 I'm trying to figure out this whole hackathons thing
-- 🧪 I'm trying to find my interest 
-- 💻 I'm doing an MBA course online
-- 😄 Pronouns: she/her
+- 🌱 I'm trying to participate in more hackathons
+- 🧪 I'm learning DSA with Java
+- 💻 I'm doing an online MBA course 
+- 😄 Passion : Trying to find it
 - Tech for good
-- [ ] Become an Entrepreneur 
+- Desire - To become an Entrepreneur 
 
 ---
 #### 🛠️ Languages and tools :
