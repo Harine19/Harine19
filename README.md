@@ -30,7 +30,7 @@
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/xd.png" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/autocad.png" title="Cad" alt="Cad" width="40" height="40"/>&nbsp;&ensp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&ensp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;&ensp;-->
   
 
 <!---
