@@ -19,7 +19,7 @@
 <div>
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/python-original-wordmark.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/letter-c.png" title="C" alt="C" width="40" height="40"/>&nbsp;&ensp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/letter-c%2B%2B.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/css_grey.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/java-original-wordmark.png" title = "Java" alt="Java" width="40" height ="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/html-5.png" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/css.png" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;&ensp;
