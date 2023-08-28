@@ -24,7 +24,9 @@
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/css_grey.png" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/linux.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/Git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;&ensp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/nodejs.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/postman.png" title="Js" alt="Js" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/nodejs.png" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/js.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/xd.png" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/autocad.png" title="Cad" alt="Cad" width="40" height="40"/>&nbsp;&ensp;
