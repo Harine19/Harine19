@@ -5,12 +5,11 @@
 ### 👩‍💻 About me :
 ---
 
-- 🌱 I'm trying to participate in more hackathons
-- 🧪 I'm learning DSA with Java
-- 💻 I'm doing an online MBA course 
-- 😄 Passion : Trying to find it
-- Tech for good
-- Desire - To become an Entrepreneur 
+- 🌱 I'm trying to participate in more hackathons 
+- 🧪 I'm learning DSA & Competitive programming to crack interviews
+- 💻 I'm doing an online MBA course + Google course on Digital marketing and E-commerce
+- 😄 Passion : Entrepreneurship
+- Tech for good 
 
 ---
 #### 🛠️ Languages and tools :
