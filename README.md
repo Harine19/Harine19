@@ -23,8 +23,8 @@
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/java-original-wordmark.png" title = "Java" alt="Java" width="40" height ="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/html-5.png" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/css_grey.png" title="Css3" alt="Css3" width="40" height="40"/>&nbsp;&ensp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/Scss.png" title="Scss" alt="Scss" width="40" height="40"/>&nbsp;&ensp;
-  <img src="https://github.com/Harine19/Harine19/blob/main/assets/Boostrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/Sass.png" title="Scss" alt="Scss" width="40" height="40"/>&nbsp;&ensp;
+  <img src="https://github.com/Harine19/Harine19/blob/main/assets/Bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/Angular.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/React.png" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;&ensp;
   <img src="https://github.com/Harine19/Harine19/blob/main/assets/nodejs.png" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;&ensp;
